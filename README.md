@@ -10,6 +10,7 @@ Basic level project of Speech To Text Converter In ReactJs and Basic Css.
 
 - Fully Responsive
 - React-Css
+- Library Used => react-speech-recognition
 
 ### Setup
 
